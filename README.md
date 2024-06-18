@@ -72,6 +72,6 @@ The dataset used in this project includes information about different firms, the
 
 ## Contact
 
-For any questions or further information, you can reach me at omkar.yeole@colorado.edu.
+For any questions or further information, you can reach me at omkaryeole@gmail.com.
 
-Thank you for visiting the Glassdoor Job Reviews Analysis project!
+Thank you for visiting the Glassdoor Job Reviews in Python project!
