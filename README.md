@@ -72,6 +72,6 @@ The dataset used in this project includes information about different firms, the
 
 ## Contact
 
-For any questions or further information, you can reach me at omkaryeole@gmail.com.
+For any questions or further information, you can reach me at abhisheklimaye97@gmail.com.
 
 Thank you for visiting the Glassdoor Job Reviews in Python project!
